@@ -1,4 +1,4 @@
-# Bank-Customer-Relationship-Management
+# Bank-Customer-Relationship-Management 
 
 •Analyzed banking customer data using SQL to uncover churn patterns based on credit score, tenure, product holding, and demographics.
 
